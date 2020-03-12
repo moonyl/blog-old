@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "cmake"
+    url: /categories/cmake
+  - title: "writing"
+    url: /categories/writing
+  - title: "web-devel"
+    url: /categories/web-devel
+  - title: "Categories"
+    url: /categories/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
