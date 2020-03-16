@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "cmake"
+  - title: "Cmake"
     url: /categories/cmake
-  - title: "writing"
+  - title: "Writing"
     url: /categories/writing
-  - title: "web-devel"
+  - title: "Web-devel"
     url: /categories/web-devel
   - title: "Categories"
     url: /categories/
